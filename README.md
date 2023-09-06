@@ -7,5 +7,7 @@ Includes:
 - HCI-semester: Folder containing all individual and group steps working on semester-long project for final protoype
 - Polished Wireframe Sketch: Polished wireframe sketch for final prototype design, other wireframes and further explanation and background information found in A4 Group file
 - Hi-fid UI Sketch: High-fidelity UI sketch for final prototype design, further explanations and background information found in A4 Group file
-- Final Prototype Image: Final static image of interactive final prototype design, further explanations and background information, including link to interactive Figma file, found in A4 Group file
+- Final Prototype Image: Final static image of interactive final prototype design, further explanations and background information, found in A4 Group file
+- Final Interactive Prototype on Figma accessed [here](https://www.figma.com/file/oRZr2iwq5HPLsQK1bYo5az/A4?type=design&node-id=4%3A0&mode=design&t=WABShFl75lHqLQgO-1)
+
 
